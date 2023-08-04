@@ -1,0 +1,16 @@
+Mohammad#F#23112020#19071998#Flu#Ramallah#A+
+Alma#F#2212019#1012000#Ear infection#Nablus#B+
+Fadi Jamal#M#10112020#5122001#Ear infection#Jerusalem#O-
+Baraa Ahmed#M#10092020#11031980#Fever#AlBireh#B-
+Ahmed Ali#M#1102020#5101970#Low blood pressure#AlBireh#A-
+Mustafa Saleh#M#22102019#1012000#Diabetes#Ramallah#A+
+Waseem#M#1102020#5101970#Low blood pressure#AlBireh#A-
+Nour#F#11112020#9122000#fever#Ramallah#A+
+Samar Mohammad#F#23112020#19071998#Flu#Ramallah#A+
+Alma Mukhles#F#2212019#1012000#Ear infection#Nablus#B+
+Rami#M#10112020#5122001#Ear infection#Nablus#O+
+Baraa Ahmed#M#10092020#11031980#Fever#AlBireh#B-
+Ali#M#1102020#5101970#COVID19#AlBireh#A-
+Salem#M#22102019#1012000#COVID19#Ramallah#A+
+Zain#M#1102020#5101970#COVID19#AlBireh#A-
+Ayman#F#11112020#9122000#COVID19#Ramallah#A+
